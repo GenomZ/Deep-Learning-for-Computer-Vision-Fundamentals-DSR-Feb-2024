@@ -14,12 +14,6 @@ These modules contain:
 * Notebook code to run
 * Exercises
 
-Overall
-* 14 hours for studying materals
-* 12 hours of teaching
-
-Each module will approximately take 4 hours.
-
 ## MC questions
 
 At the end of longer learning sessions, try to answer the related MC-questions:
